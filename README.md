@@ -13,9 +13,12 @@ Curious to learn web  development to get comfortable with building websites.
 
 ## What I am currently working on🌱
 - Participating in the 100 Days of Code Challenge.
+    - <a href="https://github.com/Shalini-prasad/100DaysofCode">Log book: Check the progress</a>   
 - Learning Advance CSS and Javascript.
 - Building projects.
+    - <a href="https://codepen.io/your-work">Codepen Link</a>
 - Writing Tech Blog on any topic which I learn.
+    - <a href="https://hashnode.com/@Shalini-p">See Blog</a>
 - Fun fact:⚡
 
 ## 2021 Goals
