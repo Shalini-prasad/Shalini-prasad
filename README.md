@@ -12,10 +12,9 @@
 Curious to learn web  development to get comfortable with building websites. 
 
 ## What I am currently working on🌱
-- Participating in the 100 Days of Code Challenge.
-    - <a href="https://github.com/Shalini-prasad/100DaysofCode">Log book: Check the progress</a>   
+- Participating in the 100 Days of Code Challenge.   
 - Learning Advance CSS and Javascript.
-- Building projects.
+- Building mini projects.
     - <a href="https://codepen.io/your-work">Codepen Link</a>
 - Writing Tech Blog on any topic which I learn.
     - <a href="https://hashnode.com/@Shalini-p">See Blog</a>
@@ -25,8 +24,6 @@ Curious to learn web  development to get comfortable with building websites.
 - Building projects and Clone Websites to fill my portfolio.
 - Contribute to Open Source
 - Learn Data Structure and Algorithm 
-- Learn to play Piano.
-- Do Yoga Daily.
 
 ## Languages and Tools
 <img src="https://img.shields.io/badge/CSS3-4F46E5?style=for-the-badge&logo=Css3&logoColor=white"> <img src="https://img.shields.io/badge/HTML-EF4444?style=for-the-badge&logo=Html5&logoColor=white"> <img src="https://img.shields.io/badge/JAVASCRIPT-FBBF24?style=for-the-badge&logo=JavaScript&logoColor=white">
