@@ -14,7 +14,7 @@ Curious to learn web development to get comfortable with building websites.
 ## What I am currently working on🌱  
 - Learning React
 - Project I am building
-    - <a href="https://codepen.io/your-work](https://github.com/Shalini-prasad/react-final-project">Repository Link</a>
+    - <a href="https://github.com/Shalini-prasad/react-final-project">Repository Link</a>
 - Writing Tech Blog on any topic which I learn.
     - <a href="https://hashnode.com/@Shalini-p">See Blog</a> 
 
